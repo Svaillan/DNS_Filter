@@ -7284,7 +7284,7 @@
 
 # 4chan
 0.0.0.0 4chan.org
-0.0.0.0 boards.4chan.org/
+0.0.0.0 boards.4chan.org
 
 # reddit
 0.0.0.0 b.thumbs.redditmedia.com
